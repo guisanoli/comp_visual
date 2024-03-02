@@ -1,1 +1,1 @@
-[Atividade 1](docs/Atividade1/a1.md)
+[Atividade 1](docs/atividade/a1.md)
