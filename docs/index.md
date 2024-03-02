@@ -1,1 +1,3 @@
-[Atividade 1](atividade/a1.md)
+# Atividades
+
+- [1) O que é Computação Visual?](atividade/a1.md)
